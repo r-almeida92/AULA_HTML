@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Docs: updated notícias.html
 
+## [0.0.3] - 2024-05-03
+
+### Added notícias.html
+
 ## [0.0.3] - 2024-05-02
 
 ### Docs: updated index.html
