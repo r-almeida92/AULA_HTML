@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2024-05-02
 
-### updated exercício.html
+### Docs: updated exercício.html
+
+## [1.0.0] - 2024-05-02
+
+### Docs: updated exercício.html
 
 ## [0.0.9] - 2024-05-05
 
